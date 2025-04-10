@@ -27,7 +27,7 @@ IDE: Visual Studio Code
 bash
 Copy
 Edit
-git clone https://github.com/your-username/angular-todo-app.git
+git clone https://github.com/amultomr/angular-todo-app.git
 cd angular-todo-app
 npm install
 ng serve
